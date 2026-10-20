@@ -1,0 +1,23 @@
+Name,Purpose,Quantity,Total Cost ($),Link,Distributor,Purchase Quantity
+"Plum Blossom Cherry-profile PBT keycaps (XVX, 127-key)",Provide labelled key surfaces for typing,1,22.95,https://www.xvxchannel.com/products/plum-blossom-cherry-keycap-set?variant=50291755811053,XVX Keyboard,1 set
+"Durock V2 clear screw-in stabilizer kit - 7+1, 6.25U",Support long keys and reduce key wobble,1,29.37,https://www.keycrox.co.uk/product/durock-screw-in-stabs-v2?variant=DNOUB5U5,KeyCrox,1 kit
+Akko V3 Penguin Pro silent tactile switches - 45-pack,Detect key presses with quiet tactile feedback,3,43.54,https://hardwarecorpus.in/products/akko-penguin-switches-45-pcs-pack,Hardware Corpus,3 packs (135 switches)
+Adafruit Feather nRF52840 Express controller,Run keyboard firmware and provide USB/Bluetooth control,1,33.54,https://techdepot.in/products/adafruit-feather-nrf52840-express,Tech Depot India,1 board
+3.7 V 500 mAh single-cell LiPo battery,Supply rechargeable power for wireless operation,1,2.75,https://www.theengineerstore.in/products/lipo-battery-3-7v-500mah,The Engineer Store,1 battery
+"CCTC TCC0805X7R104J500DT - 100 nF, 50 V, X7R, 0805",Filter high-frequency noise on power rails,10,0.56,https://www.lcsc.com/product-detail/C282730.html,LCSC,50 pieces
+"Samsung CL21B475KPQVPNE - 4.7 uF, 10 V, X7R, 0805",Provide local power-supply filtering,5,1.5,https://www.digikey.in/en/products/detail/samsung-electro-mechanics/CL21B475KPQVPNE/5961267,DigiKey,5 pieces
+1N4148W SOD-123 switching diodes,Isolate key-matrix signals to limit ghosting,216,11.06,https://www.digikey.in/en/products/detail/smc-diode-solutions/1N4148W/6022450,DigiKey,216 pieces
+3 mm green through-hole indicator LEDs,Show keyboard operating/status indications,15,0.32,https://quartzcomponents.com/products/3mm-led-green-color,Quartz Components,15 pieces
+3 mm red through-hole indicator LEDs,Show keyboard warning/status indications,15,0.47,https://quartzcomponents.com/products/3mm-led-red-color,Quartz Components,15 pieces
+TYPE-C-31-M-12 - 16-pin USB-C receptacle,Connect external USB power/data to the board,2,0.12,https://hubtronics.in/usb-c-female-port,Hubtronics,2 pieces
+XINYA XY308 2.54 mm three-pin screw terminal - green,Provide a removable screw-clamped wire connection,,0.22,https://roboticsdna.in/product/xy308-2-54-xinya-3-pin-screw-terminal-block/,RoboticsDNA,1 piece (assumed)
+JST SM08B-SRSS-TB(LF)(SN) - eight-pin 1 mm header,Connect the display wiring harness to the board,2,1.7,https://www.digikey.in/en/products/detail/jst-sales-america-inc/SM08B-SRSS-TB-LF-SN/926879,DigiKey,2 pieces
+"Panasonic ERJ-6ENF4701V - 4.7 kohm, 1%, 0805",Set circuit resistance and signal bias levels,11,0.68,https://www.digikey.in/en/products/detail/panasonic-electronic-components/ERJ-6ENF4701V/1746872,DigiKey,11 pieces
+"Vishay CRCW08051K00FKEAHP - 1 kohm, 1%, 0.5 W, 0805",Limit current and establish circuit resistance,20,1.78,https://www.digikey.in/en/products/detail/vishay-dale/CRCW08051K00FKEAHP/2222852,DigiKey,20 pieces
+"Yageo RC0805JR-075K1L - 5.1 kohm, 5%, 0805",Provide the specified 5.1 kohm resistance,100,1.55,https://www.digikey.in/en/products/detail/yageo/RC0805JR-075K1L/728338,DigiKey,100 pieces
+Microchip MCP23017-E/SO - 16-bit I2C GPIO expander,Add digital input/output lines for keyboard scanning,4,6.48,https://www.digikey.in/en/products/detail/microchip-technology/MCP23017-E-SO/894271,DigiKey,4 pieces
+MSKSEMI USBLC6-2SC6-MS - SOT-23-6 ESD protector,Protect USB signal lines against electrostatic discharge,5,0.65,https://www.lcsc.com/product-detail/C3029034.html,LCSC,10 pieces
+Waveshare 1.9-inch SPI IPS LCD - 170 x 320,Display keyboard status and user-interface information,1,11.05,https://www.theengineerstore.in/products/waveshare-1-9inch-lcd-display-module-spi-interface-ips-262k-colors,The Engineer Store,1 module
+PCB,Board,1,42.78,JLCPCB,JLCPCB,1
+Cad,Case,1,3,Hackclub,Hacklcub,1
+Total,,,216.07,,,
